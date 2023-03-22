@@ -3,9 +3,8 @@
 
 Submitted by: **Noah Pilkington**
 
-**Task-IOS-Mobile-Application** is an app that ... [TODO] 
-
-Due to not having Xcode 14 as my laptop has reached its max updates for its lifecycle I spent the majority of the time trying to figure out and put together the starter base template needed to complete the project. Due to not being able to use the starer code I had to try guess and navigate how things worked. Not enough TAs to help show me what it looks like or answer questions. 
+**Task-IOS-Mobile-Application** 
+This app has a list which requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
 
 Time spent: **10** hours spent in total
 
